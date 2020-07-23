@@ -1,7 +1,9 @@
 # Welcome & Login Screen -- Backing Lessons - Flutter UI
 
-A Flutter project.
+A Flutter project .
 
-## Getting Started
 
 ![alt text](https://github.com/linhndse130639/baking-lessons-login/blob/master/conver.png)
+
+References from the author: ##abuanwar072
+More Information: https://github.com/abuanwar072/Login-Screen---Flutter-UI
